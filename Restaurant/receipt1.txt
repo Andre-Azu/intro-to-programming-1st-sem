@@ -1,0 +1,57 @@
+***************** WELCOME TO STRATH CAFE***********
+----------------------------------------------------
+		Menu		price		
+			1.	Rice		50 Ksh
+			2.	Chapati		40 Ksh
+			3.	Beef	150 Ksh
+			4.	Beans		20 Ksh
+			5.	Juice		70 Ksh
+----------------------------------------------------
+		Order Summary		Quantity		Total
+			1.	Rice		2 Ksh		100
+			2.	Chapati		3 Ksh		120
+			3.	Beef	3 Ksh		450
+			4.	Beans		2 Ksh		40
+			5.	Juice		1 Ksh		70
+Your total order is  780
+You were served by: Beyonce Knowles
+Order placed at Mon Apr 25 14:50:47 2022
+
+***************** WELCOME TO STRATH CAFE***********
+----------------------------------------------------
+		Menu		price		
+			1.	Rice		50 Ksh
+			2.	Chapati		40 Ksh
+			3.	Beef	150 Ksh
+			4.	Beans		20 Ksh
+			5.	Juice		70 Ksh
+----------------------------------------------------
+		Order Summary		Quantity		Total
+			1.	Rice		2 Ksh		100
+			2.	Chapati		3 Ksh		120
+			3.	Beef	2 Ksh		300
+			4.	Beans		1 Ksh		20
+			5.	Juice		2 Ksh		140
+Your total order is  680
+You were served by: Beyonce Knowles
+Order placed at Tue Apr 26 12:59:49 2022
+
+***************** WELCOME TO STRATH CAFE***********
+----------------------------------------------------
+		Menu		price		
+			1.	Rice		50 Ksh
+			2.	Chapati		40 Ksh
+			3.	Beef	150 Ksh
+			4.	Beans		20 Ksh
+			5.	Juice		70 Ksh
+----------------------------------------------------
+		Order Summary		Quantity		Total
+			1.	Rice		2 Ksh		100
+			2.	Chapati		3 Ksh		120
+			3.	Beef	4 Ksh		600
+			4.	Beans		2 Ksh		40
+			5.	Juice		1 Ksh		70
+Your total order is  930
+You were served by: Beyonce Knowles
+Order placed at Tue Apr 26 13:00:01 2022
+
