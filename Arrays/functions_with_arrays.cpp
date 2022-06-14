@@ -2,7 +2,7 @@
 using namespace std;
 
 void add(int A[]){
-    int sum = 0,
+    int sum = 0;
     for(int i=0, i<=4 ; i++){
         sum = sum+A[i];
     } 

@@ -9,7 +9,7 @@ int main(){
         if(A[i] == 10){
     
     }
-
+    }
 
     return 0;
 }
