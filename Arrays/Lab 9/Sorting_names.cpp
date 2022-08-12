@@ -6,17 +6,25 @@ using namespace std;
 void sortNames(string names[]){
     //Updating the first name to be Peter
     names[0]="Peter";
+    string n;
     cout << names[0] << endl;
-    for(int i=1 ; i < 5 ; i++){
-        int j = i+1;
-        char first_letter = names[i][0];
-        if (first_letter < names[j][0])
-        {
-            string sorted_name = names[i];
+    for(int k =0; k < 5 ;k++){
+    for(int i=k ; i < 5 ; i++){
+        // char first_letter = names[k][0];
+        // if (first_letter < names[i][0])
+        // {
+        //     string sorted_name = names[k];
             
-            cout << sorted_name << endl;
-        }
-        
+        //     cout << sorted_name << endl;
+        // }
+        if(names[k] > names[i])
+    {
+        n = names[k];
+        names[k] = names[i];
+        names[i] = n;
+        cout << names[i] << endl;
+    }          
+    }
     }
     
     

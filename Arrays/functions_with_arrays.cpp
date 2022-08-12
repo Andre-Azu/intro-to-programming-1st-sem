@@ -17,4 +17,4 @@ int main(){
     add(num);//Func call arr
     cout << num[0];
     return 0;
-}
+}t
